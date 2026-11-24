@@ -4,7 +4,7 @@
   "title": "Apple Ads by Sprites",
   "description": "Apple Ads (App Store search ads) for AI agents: reports, bids, keywords with approval.",
   "version": "1.0.0",
-  "websiteUrl": "https://www.sprites.ai/integrations",
+  "websiteUrl": "https://www.sprites.ai/mcp/apple-ads",
   "repository": {
     "url": "https://github.com/sprites-mcp/apple-ads-mcp-server",
     "source": "github"
