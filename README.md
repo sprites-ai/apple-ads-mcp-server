@@ -257,7 +257,7 @@ No. Leave `channel` as `unknown` and say Apple Ads in the request.
 **Does it cover other channels?**
 Yes. The same URL reaches Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Reddit Ads, Microsoft Advertising,
 Apple Ads, GA4, Search Console, Shopify, SEO and AI visibility, and Google Business Profile, for whatever is
-connected in Sprites. See [ads-mcp-servers](https://github.com/sprites-mcp/ads-mcp-servers).
+connected in Sprites. See [ads-mcp-servers](https://github.com/sprites-ai/ads-mcp-servers).
 
 **How much does it cost?**
 The connector is included in every Sprites plan, and every plan starts with a short trial. See sprites.ai for current plans. Apple Ads charges its own media
@@ -274,7 +274,7 @@ Disconnect the connector in your client, or remove the connection in Sprites. Th
 This server is built and run by [Sprites](https://www.sprites.ai), an AI marketing agent for paid ads, SEO and AI visibility.
 
 - Product page: [sprites.ai/integrations](https://www.sprites.ai/mcp/apple-ads)
-- All Sprites MCP servers: [github.com/sprites-mcp](https://github.com/sprites-mcp)
+- All Sprites MCP servers: [github.com/sprites-ai](https://github.com/sprites-ai)
 - Issues with these docs or configs: open an issue here. Security reports: see [SECURITY.md](SECURITY.md).
 
 Licensed under the [MIT License](LICENSE). The license covers the documentation and configuration files in this repository.
